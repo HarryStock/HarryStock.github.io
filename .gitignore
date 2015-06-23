@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+e5
+db.sqlite3
+.DS_Store
+README.txt
+it/all.txt
+*~
